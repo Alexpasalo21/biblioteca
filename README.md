@@ -1,6 +1,6 @@
 # Sistema de Control de Biblioteca
 
-Aplicación web desarrollada en PHP nativo, MySQL, HTML5, CSS3 y JavaScript para la gestión de inventario, registro y préstamo de libros.
+Aplicación web desarrollada para la gestión de inventario, registro y préstamo de libros.
 
 - **URL en producción:** http://bibliotecaalex.atwebpages.com/
 
